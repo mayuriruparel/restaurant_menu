@@ -1,0 +1,40 @@
+[
+  {"name":"Milkshakes",
+    "dd":[
+      {"name":"Vanilla Shake","img":"assets/img/vanilla_milkshake.jpg","price":"₹ 130"},
+      {"name":"Chocolate Shake","img":"assets/img/chocolate_milkshake.jpg","price":"₹ 100"},
+      {"name":"Kesar Pista Shake","img":"assets/img/kesar_milkshake.jpg","price":"₹ 150"},
+      {"name":"Cookie Shake","img":"assets/img/oreo_milkshake.jpg","price":"₹ 150"},
+      {"name":"Strawberry Shake","img":"assets/img/strawberry_milkshake.jpg","price":"₹ 120"}
+    ]},
+  {"name":"Fast Food",
+    "dd":[
+      {"name":"Tomato Pasta","img":"assets/img/pasta.jpg","price":"₹ 150"},
+      {"name":"Veg Burger","img":"assets/img/veg_burger.jpg","price":"₹ 50"},
+      {"name":"Garden Salad","img":"assets/img/salad.jpg","price":"₹ 50"},
+      {"name":"Farmhouse Pizza","img":"assets/img/veg_pizza.jpg","price":"₹ 100"},
+      {"name":"Club Sandwich","img":"assets/img/veg_sandwich.jpg","price":"₹ 40"}
+    ]},
+  {"name":"Beverages",
+    "dd":[
+      {"name":"Hot Coffee","img":"assets/img/coffee.jpg","price":"₹ 150"},
+      {"name":"Chilled Cola","img":"assets/img/cold_drink.jpg","price":"₹ 70"},
+      {"name":"Lime Mojito","img":"assets/img/mineral_water.jpg","price":"₹ 30"},
+      {"name":"Herbal Tea","img":"assets/img/tea.jpg","price":"₹ 50"}
+    ]},
+  {"name":"Potato Fries",
+    "dd":[
+      {"name":"Pepper Fries","img":"assets/img/pepper-fries.jpg","price":"₹ 160"},
+      {"name":"Ketchup Fries","img":"assets/img/cheese_fries.jpg","price":"₹ 200"}, 
+      {"name":"Plain Fries","img":"assets/img/plain_fries.jpg","price":"₹ 150"},
+      {"name":"Schezwan Fries","img":"assets/img/schezwan_cheese_fries.jpg","price":"₹ 180"}      
+    ]},
+  {"name":"Ice Creams",
+    "dd":[
+      {"name":"Chocolate Cone","img":"assets/img/chocolate_icecream.jpg","price":"₹ 130"},
+      {"name":"Blueberries Candy","img":"assets/img/blueberries-candy.jpg","price":"₹ 120"},
+      {"name":"Colorful Candy","img":"assets/img/colourful-candy.jpg","price":"₹ 110"},
+      {"name":"Cone Cup Delight","img":"assets/img/cone-cup-delight.jpg","price":"₹ 170"},
+      {"name":"Vanilla Cone","img":"assets/img/vanila_icecream.jpg","price":"₹ 110"}
+    ]}
+]
