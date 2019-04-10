@@ -1,3 +1,4 @@
+<img src='https://github.com/mayuriruparel/flutter_demo_apps/blob/master/preview_images/flutter-menu-apps.gif' alt='flutter-restaurant-menu-app'/>
 # restaurant_menu
 
 A new Flutter application.
