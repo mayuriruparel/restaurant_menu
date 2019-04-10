@@ -36,6 +36,4 @@ There is no special configuration required to run this App as the assets and fon
 I will be uploading this project 's Source code and will be available on Github with MIT Licence:
 https://github.com/mayuriruparel/restaurant_menu
 
-Also, I will be uploading on Google Play Store and it could be accessed from here:
-https://play.google.com/store/apps/details?id=mayuri.restaurantmenu
 
